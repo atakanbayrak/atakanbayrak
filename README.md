@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Atakan Bayrak from Gazi University, Turkey and I am studying Computer Engineering. You can find different kind of notes, tips and code blocks from different kind of programming languages. My aim is that to make my GitHub page efficent for everyone from every programming-level. You can look around on my page to find different code blocks and if you need more explanation please donot hesitate to contact with me! Thanks.
+- 👋 Hi, I’m Atakan Bayrak from Gazi University Turkey and Univerza v Mariboru (Erasmus Exchange Programme) Slovenia. I am studying Computer Engineering and Computer Science.You can find different kind of notes, tips and code blocks from different kind of programming languages. My aim is that to make my GitHub page efficent for everyone from every programming-level. You can look around on my page to find different code blocks and if you need more explanation please donot hesitate to contact with me! Thanks.
 - 👀 I’m interested in Programming and Computer Science since my childhood. I know that I am not professional in programming but I am trying to focus my weak skills. If you find something wrong on my codeblocks, I will be so happy to hear some tips from you.  
 - 📫 If you want to know something more about me or ask your questions directly to me: For instagram @atakanbayrak35
 - Youtube: https://www.youtube.com/channel/UCRHGNGtCitEjj_DF_vb9zXA 
-- ^you got some useful programming videos in this channel about different programming languages^ 
+- ^you got some useful programming and erasmus videos in this channel^ 
 
 <!---
 atakanbayrak/atakanbayrak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
