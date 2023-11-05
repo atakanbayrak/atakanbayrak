@@ -2,6 +2,7 @@
 atakanbayrak/atakanbayrak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![](https://komarev.com/ghpvc/?username=atakanbayrak&color=blueviolet)
 <hr>
 <p align="center">
   <img height="170em" width:"100em" src="https://github-readme-stats.vercel.app/api?username=atakanbayrak&show_icons=true&hide_border=true&theme=midnight-purple&count_private=true"/>
