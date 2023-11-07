@@ -17,6 +17,8 @@ You can click the Preview link to take a look at your changes.
 <hr>
 <a href="https://www.linkedin.com/in/atakanbayrak/" target="_blank" rel="nofollow"><img alt="Atakan's Linkedin" src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  <a href="mailto:atakan.bayrak@gazi.edu.tr" target="_blank" rel="nofollow"><img alt="Atakan's Mail Address" src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-![](https://komarev.com/ghpvc/?username=atakanbayrak&color=blueviolet)
+
  <hr>
+![](https://komarev.com/ghpvc/?username=atakanbayrak&color=blueviolet)
+
 
