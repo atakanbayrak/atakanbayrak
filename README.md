@@ -3,6 +3,11 @@ atakanbayrak/atakanbayrak is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 ![](https://komarev.com/ghpvc/?username=atakanbayrak)
+<p align="center">
+    <a href="#">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=atakanbayrak&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </a>
+</p>
 <hr>
 <p align="center">
   <img height="170em" width:"100em" src="https://github-readme-stats.vercel.app/api?username=atakanbayrak&show_icons=true&hide_border=true&theme=midnight-purple&count_private=true"/>
